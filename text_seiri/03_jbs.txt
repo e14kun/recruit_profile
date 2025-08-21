@@ -1,0 +1,68 @@
+=========================
+** (주)jbsinc **
+
+# 요약
+Fullstack programer
+B2B2C VOD Streaming 서비스개발
+기간 : 2009년 3월 24일 ~ 2010년 5월 10일	
+
+----------------------
+# 프로젝트3)
+## 제목 : BtoBtoC VOD Streaming 컨텐츠판매 서비스
+
+## 투입포지션 : 기획 & Fullstack 솔루션개발자
+## 사업 개요 : 전문가노하우 컨텐츠 인터넷판매 제공 플랫폼 사업(자사 서비스)
+## 목표 : 유료노하우VOD컨텐츠영상을 계약당 제공하는 서비스 개발및운영
+
+## 본인 수행 역할 : 
+1/5) 사업기획참여, 비즈니스 흐름 설계
+2/5) 솔루션구현 기술 조사 및 연구
+3/5) 서비스설계 및 fullstack개발
+4/5) 솔루션 및 핵심엔진 전체 설계/개발
+5/5) DNS, Mail서버 구축등을 포함 컨텐츠제공서비스 통합시스템 구현 작업
+기타) 안드로이드 컨텐츠등록플랫폼샵 사업아이템 제안(프레젠준비및발표)
+
+## 성과
+1/5) java 로 회원가입 및 컨텐츠등록 및 서비스 관리 개발
+ - 서버구축, 업무로직 및 웹디자인&웹개발 fullstack
+
+2/5) 독자적인 웹컨텐츠 등록&관리툴(파일업로드 및 영상codec변환진행콴리) 개발
+ - actionscript3 로 amf3 및 mxmlc, flex 활용
+ - javascript 와 flash 기능실행 호출통신
+
+3/5) 독자적인 영상codec변환 엔진 backend개발
+ - ffmpeg튜닝(gcc) 및 자바 jni 연동
+ - sendmail 메일서버 구축 및 자바 jni 연동
+    (계약진행 등 알림메일발송)
+
+4/5) 독자적인 flash 동영상 플레이어 개발
+ - rtmp 프로토콜 / H.264 포멧
+ - jboss 4.2.3 with red5 를 활용한 구축,운영,관리
+
+5/5) 계약 및 컨텐츠 관리 백오피스 서비스 개발
+ - 일본 오픈소스 쇼핑몰CMS Ec-cube 튜닝(php)
+
+## 개발스텍 : Linux(Ubuntu 9.10 Server) / Mysql 5 / C(gcc) , Java, JSP/Servlet, Actionscripot3, php / vi editer, eclipse,flash developer
+## 활용기술 : 
+ - bind(DNS daemon), sendmail(MTA 메일송신),
+ - dovecot with sendmail(메일송신인증),
+ - jboss 4.2.3 with red5(동영상 송출),
+ - ffmpeg(코덱변환), eccube(쇼핑몰OSS CMS)
+ - AMF(명령호출통신) 등
+
+----------------------
+# 프로젝트4)
+## 제목 : 
+
+## 투입포지션 : 
+## 사업 개요 : 
+## 목표 : 
+
+## 본인 수행 역할 : 
+
+## 성과
+
+
+## 개발스텍 : 
+
+----------------------
