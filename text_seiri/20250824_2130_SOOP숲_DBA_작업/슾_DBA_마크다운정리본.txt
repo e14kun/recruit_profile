@@ -1,0 +1,81 @@
+# 경력기술서 (DBA 지원)
+
+## 요약
+15년 이상 **DBA 및 Fullstack/Infra 엔지니어링** 경험을 보유한 전문가.  
+Oracle, MySQL, PostgreSQL, MS-SQL 등 **다양한 RDBMS 운영 및 성능 튜닝** 경험과, **대규모 서비스 DB 운영·장애 대응·고가용성 설계**까지 수행.  
+최근에는 **AI SaaS·MSA 기반 서비스의 DBA/백엔드 개발·운영**을 리딩하며, **DB 최적화·자동화·장애 모니터링·데이터 보안** 분야에서 강점을 발휘.  
+다양한 산업(B2B/B2C/공공기관/에너지/AI/법률) 프로젝트를 통해 **데이터 기반 서비스 품질 향상과 안정적 운영**에 기여한 경력 보유.  
+
+---
+
+## 주요 경력 및 성과
+
+### ㈜ 인텔리콘연구소 (2024.05 ~ 현재)  
+**직책 : AI DA Leader / DBA / 팀장**  
+- SaaS형 **법률 GPT sLLM 검색엔진 서비스** DBA 및 백엔드 운영 총괄  
+- **MySQL + Elasticsearch + K8s** 기반 **DB 설계·운영·쿼리 튜닝**  
+- **성과**
+  - 멀티테넌시 DB 설계 및 데이터 구축 자동화
+  - **부하 쿼리 성능 개선** → 서비스 응답속도 및 안정성 강화
+  - **DB 주입 자동화 스크립트(bash+PowerShell)** 개발 → 데이터 처리 효율성 70% 향상
+  - Kubernetes 기반 **MSA 오류 모니터링/관제 시스템** 개발
+  - 운영 통계 시각화 및 분석 리포트 제공  
+
+---
+
+### ㈜ sqisoft (2021.02 ~ 2023.05)  
+**직책 : 수석 / DBA·Fullstack 개발자**  
+- 국토부·한국건설기술연구소 등 **공공기관 연구개발 시스템 DBA 및 개발**  
+- PostgreSQL, MySQL, Oracle 기반 시스템 다수 운영  
+- **성과**
+  - **PostgreSQL + PostGIS 환경 구축**, GIS 지도 분석 시스템 개발
+  - 대규모 조사 데이터 기반 **데이터 수집·관리·시각화 시스템 설계/개발**
+  - **OCR 기반 문서 DB화 및 SaaS 멀티테넌시 아키텍처 설계**
+  - **DB 성능 튜닝 및 보안 점검(CSAP 대비)**
+  - **선박대기오염물질 관리시스템** 운영 → Oracle 기반 성능 튜닝 및 보안·장애 대응 수행  
+
+---
+
+### ㈜ creaworks (2012.03 ~ 2017.03)  
+**직책 : CTO & PL/SE**  
+- **월 7천만 PV 인터넷방송 Live Streaming 서비스** 총괄  
+- MySQL 기반 **대규모 트래픽 DB 운영 및 튜닝** 경험  
+- **성과**
+  - **Slow Query 분석 및 DB 성능 개선** (7초→1.3초 단축)
+  - **DB Replication, Load Balancer, Memcached** 기반 고가용성 구조 설계
+  - 20대 웹서버·3대 DB 분산 운영으로 서비스 안정성 확보
+  - **DDoS 장애 대응 및 재발 방지** → 서비스 무중단 운영 성공  
+
+---
+
+### ㈜ allmedia-network (2008.05 ~ 2009.02)  
+**직책 : .NET 개발자 (ERP/데이터웨어하우스)**  
+- **MS-SQL 기반 ERP·데이터웨어하우스 시스템** 개발  
+- 상세설계 기반 ERP 데이터 관리 및 단위테스트 수행  
+
+---
+
+### 기타 주요 경험  
+- B2B/B2C **전자결제·ERP·CRM·Streaming·소셜커머스** 서비스 개발 및 운영 경험  
+- **AWS RDS/EC2 기반 DB 운영 및 이관 프로젝트** 수행(adglobe, tobirakikaku)  
+- Oracle, MySQL, PostgreSQL, MS-SQL, MongoDB 등 **다양한 DBMS 경험**  
+- **DevOps(AWS, Jenkins, Docker/K8s) 기반 자동화 환경 구축 및 DB 운영**  
+
+---
+
+## 핵심 역량
+- **DB 설계·운영·튜닝** : Oracle / MySQL / PostgreSQL / MS-SQL / MongoDB  
+- **고가용성 & DR** : Replication, Clustering, 백업/복구 전략 수립 및 실행  
+- **성능 최적화** : Slow Query 분석, 인덱스 전략 수립, 대규모 서비스 튜닝  
+- **장애 대응** : DDoS·DB 장애 분석 및 복구 경험 다수  
+- **DevOps/클라우드** : AWS RDS/EC2, K8s, Jenkins, Docker  
+- **협업 능력** : 개발팀·인프라팀·사업부서와 원활한 커뮤니케이션  
+
+---
+
+## 우대사항 매칭 (SOOP JD 기준)
+- ✅ **MS-SQL 기반 경험 보유** (ERP, DW 시스템 개발 및 운영)  
+- ✅ **대규모 DB 환경 성능 튜닝 경험** (월 7천만 PV 서비스 DB 운영)  
+- ✅ **Python, PowerShell 스크립팅 자동화 경험** (데이터 주입/백업/운영 자동화)  
+- ✅ **백업/복구·HA·DR 구축 경험** (Replication, LoadBalancer, Failover 설계)  
+- ✅ **다양한 RDBMS(PostgreSQL, MySQL, Oracle, MS-SQL) 실무 경험**  
